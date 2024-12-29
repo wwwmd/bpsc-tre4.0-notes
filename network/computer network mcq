@@ -1,0 +1,494 @@
+What is a network?
+a) A collection of computers
+b) A connection of two or more devices for communication
+c) A software program
+d) A system for storing data
+Answer: b) A connection of two or more devices for communication
+
+Which of the following is a type of network topology?
+a) Star
+b) Ring
+c) Bus
+d) All of the above
+Answer: d) All of the above
+
+What is the function of a router?
+a) To connect two networks
+b) To encrypt data
+c) To monitor network traffic
+d) To control internet speed
+Answer: a) To connect two networks
+
+What is the full form of LAN?
+a) Local Access Network
+b) Local Area Network
+c) Long Area Network
+d) Low Access Network
+Answer: b) Local Area Network
+
+Which device operates at the physical layer of the OSI model?
+a) Router
+b) Hub
+c) Switch
+d) Bridge
+Answer: b) Hub
+
+What is the primary purpose of the MAC address?
+a) Identifying a device on a network
+b) Assigning IP addresses
+c) Encrypting data packets
+d) Setting network priorities
+Answer: a) Identifying a device on a network
+
+What does WAN stand for?
+a) Wide Access Network
+b) Wide Area Network
+c) Wireless Access Network
+d) None of the above
+Answer: b) Wide Area Network
+
+Which layer of the OSI model is responsible for error detection?
+a) Application
+b) Data Link
+c) Network
+d) Transport
+Answer: b) Data Link
+
+What is the range of Class C IP addresses?
+a) 1.0.0.0 to 127.255.255.255
+b) 128.0.0.0 to 191.255.255.255
+c) 192.0.0.0 to 223.255.255.255
+d) 224.0.0.0 to 239.255.255.255
+Answer: c) 192.0.0.0 to 223.255.255.255
+
+Which of the following is not a guided transmission medium?
+a) Coaxial cable
+b) Fiber optics
+c) Twisted pair
+d) Radio waves
+Answer: d) Radio waves
+
+21–40: OSI and TCP/IP Models
+How many layers does the OSI model have?
+a) 5
+b) 6
+c) 7
+d) 8
+Answer: c) 7
+
+The transport layer provides:
+a) Logical addressing
+b) Process-to-process communication
+c) Error detection and correction
+d) Physical addressing
+Answer: b) Process-to-process communication
+
+What is the primary protocol used at the transport layer?
+a) IP
+b) HTTP
+c) TCP
+d) FTP
+Answer: c) TCP
+
+Which layer is responsible for data formatting and encryption?
+a) Session
+b) Transport
+c) Presentation
+d) Application
+Answer: c) Presentation
+
+DNS operates at which layer of the OSI model?
+a) Transport
+b) Network
+c) Session
+d) Application
+Answer: d) Application
+
+The unit of data at the network layer is called:
+a) Packet
+b) Frame
+c) Segment
+d) Bit
+Answer: a) Packet
+
+In the OSI model, which layer is responsible for end-to-end delivery of data?
+a) Data Link
+b) Network
+c) Transport
+d) Session
+Answer: c) Transport
+
+Which protocol is used to find the MAC address of a device?
+a) ICMP
+b) ARP
+c) TCP
+d) FTP
+Answer: b) ARP
+
+Which layer of the OSI model adds a header and a trailer to the data?
+a) Network
+b) Data Link
+c) Physical
+d) Transport
+Answer: b) Data Link
+
+The transport layer of the TCP/IP model is equivalent to which layer of the OSI model?
+a) Data Link
+b) Transport
+c) Session
+d) Network
+Answer: b) Transport
+
+Which of the following is not a transport layer protocol?
+a) TCP
+b) UDP
+c) FTP
+d) SCTP
+Answer: c) FTP
+
+IPv4 uses how many bits for addressing?
+a) 16 bits
+b) 32 bits
+c) 64 bits
+d) 128 bits
+Answer: b) 32 bits
+
+What is the function of DHCP?
+a) To assign static IP addresses
+b) To dynamically allocate IP addresses
+c) To resolve domain names to IP addresses
+d) To manage routing tables
+Answer: b) To dynamically allocate IP addresses
+
+What is the default subnet mask for a Class B network?
+a) 255.0.0.0
+b) 255.255.0.0
+c) 255.255.255.0
+d) 255.255.255.255
+Answer: b) 255.255.0.0
+
+Which of these protocols is connection-oriented?
+a) UDP
+b) TCP
+c) ICMP
+d) ARP
+Answer: b) TCP
+
+What is the purpose of ICMP?
+a) To assign IP addresses
+b) To report errors and diagnostic information
+c) To ensure data integrity
+d) To encrypt data
+Answer: b) To report errors and diagnostic information
+
+What is the range of private IP addresses for Class A?
+a) 192.168.0.0 to 192.168.255.255
+b) 172.16.0.0 to 172.31.255.255
+c) 10.0.0.0 to 10.255.255.255
+d) 169.254.0.0 to 169.254.255.255
+Answer: c) 10.0.0.0 to 10.255.255.255
+
+What is the main advantage of IPv6 over IPv4?
+a) Easier configuration
+b) Larger address space
+c) Faster speed
+d) Simpler routing
+Answer: b) Larger address space
+
+NAT stands for:
+a) Network Address Translation
+b) Network Access Table
+c) Node Address Tracking
+d) None of the above
+Answer: a) Network Address Translation
+
+What is the address space of IPv6?
+a) 64 bits
+b) 128 bits
+c) 256 bits
+d) 512 bits
+Answer: b) 128 bits
+
+This is a preview of 60 MCQs; I can continue with the remaining 40 covering file transfer protocols, network security, and advanced networking concepts if you'd like. Let me know!
+
+Which protocol is used for transferring files over the internet?
+a) FTP
+b) HTTP
+c) SMTP
+d) SNMP
+Answer: a) FTP
+
+Which protocol is used to secure file transfers?
+a) TFTP
+b) SFTP
+c) SMTP
+d) SNMP
+Answer: b) SFTP
+
+What does TFTP stand for?
+a) Trivial File Transfer Protocol
+b) Temporary File Transfer Protocol
+c) Transfer File Transmission Protocol
+d) Transparent File Transfer Protocol
+Answer: a) Trivial File Transfer Protocol
+
+Which port number does FTP use for data transfer?
+a) 20
+b) 21
+c) 22
+d) 25
+Answer: a) 20
+
+What is the default port number for HTTP?
+a) 20
+b) 21
+c) 80
+d) 443
+Answer: c) 80
+
+Which protocol is used for sending emails?
+a) FTP
+b) SMTP
+c) SNMP
+d) HTTP
+Answer: b) SMTP
+
+IMAP is used for:
+a) Sending emails
+b) Receiving emails
+c) Monitoring devices
+d) File transfers
+Answer: b) Receiving emails
+
+Which protocol is used for remote login to a server?
+a) FTP
+b) Telnet
+c) SMTP
+d) SNMP
+Answer: b) Telnet
+
+Which of the following is an alternative to Telnet for secure remote access?
+a) FTP
+b) SFTP
+c) SSH
+d) TFTP
+Answer: c) SSH
+
+What does HTTPS stand for?
+a) HyperText Transfer Protocol Secure
+b) High Transfer Transmission Protocol Secure
+c) HyperText Transparent Protocol Secure
+d) None of the above
+Answer: a) HyperText Transfer Protocol Secure
+
+What is the purpose of DNS?
+a) To manage network devices
+b) To resolve domain names into IP addresses
+c) To monitor network traffic
+d) To secure data transmission
+Answer: b) To resolve domain names into IP addresses
+
+What type of protocol is SNMP?
+a) File transfer protocol
+b) Email transfer protocol
+c) Network management protocol
+d) Security protocol
+Answer: c) Network management protocol
+
+Which port is used by DNS?
+a) 53
+b) 80
+c) 110
+d) 443
+Answer: a) 53
+
+Which layer of the OSI model does FTP operate in?
+a) Application
+b) Presentation
+c) Transport
+d) Network
+Answer: a) Application
+
+Which protocol allows browsing of web pages?
+a) HTTP
+b) FTP
+c) SMTP
+d) SNMP
+Answer: a) HTTP
+
+POP3 is used for:
+a) Sending emails
+b) Storing emails temporarily
+c) Receiving emails
+d) Transferring files
+Answer: c) Receiving emails
+
+Which protocol is used to fetch emails from a server without downloading them?
+a) IMAP
+b) POP3
+c) SMTP
+d) SNMP
+Answer: a) IMAP
+
+Which protocol is known for its unreliable data transfer?
+a) TCP
+b) UDP
+c) FTP
+d) HTTP
+Answer: b) UDP
+
+What is the primary function of a proxy server?
+a) To monitor network security
+b) To cache web content and filter requests
+c) To encrypt network traffic
+d) To route data packets
+Answer: b) To cache web content and filter requests
+
+Which protocol translates private IPs to public IPs?
+a) ARP
+b) NAT
+c) SNMP
+d) DHCP
+Answer: b) NAT
+
+81–100: Network Security and Advanced Concepts
+What does a firewall do?
+a) Monitors outgoing and incoming network traffic
+b) Allocates IP addresses
+c) Manages encryption keys
+d) Optimizes network speed
+Answer: a) Monitors outgoing and incoming network traffic
+
+Which of the following is a security protocol for Wi-Fi?
+a) FTP
+b) WPA2
+c) HTTP
+d) DNS
+Answer: b) WPA2
+
+What is the main function of a VPN?
+a) To create a secure network over the internet
+b) To assign IP addresses dynamically
+c) To enhance Wi-Fi speed
+d) To provide internet access
+Answer: a) To create a secure network over the internet
+
+Which type of attack involves overwhelming a server with requests?
+a) Phishing
+b) DoS
+c) Spoofing
+d) Man-in-the-middle
+Answer: b) DoS
+
+What does SSL stand for?
+a) Secure Socket Layer
+b) Simple Secure Layer
+c) Server Socket Layer
+d) None of the above
+Answer: a) Secure Socket Layer
+
+What is the main purpose of encryption?
+a) To prevent hacking
+b) To ensure data confidentiality
+c) To increase network speed
+d) To monitor traffic
+Answer: b) To ensure data confidentiality
+
+Which of the following is an asymmetric encryption algorithm?
+a) AES
+b) RSA
+c) DES
+d) SHA
+Answer: b) RSA
+
+Which protocol is used for securing data over the internet?
+a) HTTP
+b) SSL/TLS
+c) FTP
+d) UDP
+Answer: b) SSL/TLS
+
+Which attack intercepts communication between two parties?
+a) DoS
+b) Man-in-the-middle
+c) Phishing
+d) Malware
+Answer: b) Man-in-the-middle
+
+A switch operates at which layer of the OSI model?
+a) Physical
+b) Data Link
+c) Network
+d) Application
+Answer: b) Data Link
+
+What is the primary purpose of a VLAN?
+a) To separate network traffic logically
+b) To enhance Wi-Fi range
+c) To manage physical connections
+d) To optimize routing
+Answer: a) To separate network traffic logically
+
+Which protocol resolves IP addresses to domain names?
+a) DNS
+b) DHCP
+c) ARP
+d) ICMP
+Answer: a) DNS
+
+Which technique ensures availability of data during server failures?
+a) Load balancing
+b) NAT
+c) RAID
+d) DHCP
+Answer: c) RAID
+
+What is a botnet?
+a) A group of infected devices controlled by an attacker
+b) A type of network encryption
+c) A network management tool
+d) A virtual private network
+Answer: a) A group of infected devices controlled by an attacker
+
+Which of the following is a wireless networking standard?
+a) Ethernet
+b) 802.11
+c) FTP
+d) TCP/IP
+Answer: b) 802.11
+
+What does IDS stand for in network security?
+a) Intrusion Detection System
+b) Internet Data Service
+c) Internal Domain System
+d) Immediate Data Security
+Answer: a) Intrusion Detection System
+
+What is the main goal of load balancing?
+a) To distribute network traffic evenly across servers
+b) To secure the network
+c) To encrypt data packets
+d) To allocate IP addresses dynamically
+Answer: a) To distribute network traffic evenly across servers
+
+What is a subnet mask used for?
+a) Encrypting data
+b) Dividing a network into smaller subnets
+c) Assigning IP addresses
+d) Monitoring traffic
+Answer: b) Dividing a network into smaller subnets
+
+Which attack spoofs an IP address to impersonate another device?
+a) DoS
+b) IP Spoofing
+c) Phishing
+d) Malware
+Answer: b) IP Spoofing
+
+Which tool is commonly used for network diagnostics?
+a) Wireshark
+b) HTTP
+c) DNS
+d) SSH
+Answer: a) Wireshark
+
